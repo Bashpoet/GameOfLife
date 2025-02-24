@@ -1,5 +1,3 @@
-# GameOfLife
-GameOfLife
 # Cellular Automata Art Studio
 
 A React component for creating and exploring cellular automata art with customizable rules, multiple states, and interactive features. This component allows users to design evolving patterns, experiment with different rulesets, and create visually stunning simulations.
